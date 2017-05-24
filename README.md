@@ -2,4 +2,6 @@
 getting started
 
 
-blah blah ipsum
+
+I'm excited to get started!
+
